@@ -9,16 +9,15 @@ _Don't worry about styling and alignment at this point, we'll worry about that w
 ```html
 <!DOCTYPE html>
 <html>
-   <body>
-      ...
-   </body>
+  <body>
+    ...
+  </body>
 </html>
 ```
 
 ## Exercise 1
 
 _Questions located in the exercise folder_
-
 
 ## Exercise 2
 
@@ -27,7 +26,6 @@ _Questions located in the exercise folder_
 
 ![exercise-2 goal](./assets/ex-2-goal.png)
 
-
 ## Exercise 3
 
 Write an HTML page that matches the screenshot provided.
@@ -35,7 +33,6 @@ Write an HTML page that matches the screenshot provided.
 ![exercise-3 goal](./assets/ex-3-goal.png)
 
 Your file should have this structure:
-
 
 ## Exercise 4
 
@@ -68,7 +65,6 @@ Create an HTML file so it matches the screenshot provided:
 ![exercise-7 goal](./assets/ex-7-goal.png)
 
 Hint: use the `<table>` element
-
 
 Use `target="_blank"` on the `<a>` tags to open the links in a new tab
 
